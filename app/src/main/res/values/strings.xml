@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My ToDo</string>
+
+    /!-- ToDo Fragment -->
+    <string name="hint_todo_title">Título ToDo</string>
+    <string name="hint_todo_body">ToDo</string>
+    <string name="btn_adicionar">Adicionar</string>
+
+
+    <string name="title_AddToDo">Novo ToDo</string>
 </resources>
